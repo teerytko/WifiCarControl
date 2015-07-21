@@ -1,0 +1,20 @@
+{
+  "name": "WifiCarClient",
+  "version": "0.0.0",
+  "description": "A WifiCarClient that connects via tcp/ip to a remote controllable car.",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^2.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "wifi",
+    "rc-car",
+    "socket"
+  ],
+  "author": "teemu.rytkonen@gmail.com",
+  "license": "ISC"
+}
