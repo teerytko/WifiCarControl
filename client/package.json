@@ -13,8 +13,8 @@
   "keywords": [
     "wifi",
     "rc-car",
-    "socket"
+    "arduino"
   ],
   "author": "teemu.rytkonen@gmail.com",
-  "license": "ISC"
+  "license": "MIT"
 }
