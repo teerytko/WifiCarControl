@@ -143,5 +143,5 @@ void loop() {
   else {
     digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
   }
-  delay(100);               // wait for a second
+  delay(100);               // wait for a convenient time
 }

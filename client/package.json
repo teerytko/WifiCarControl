@@ -6,7 +6,9 @@
   "dependencies": {
     "commander": "^2.8.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
   "scripts": {
     "test": "test"
   },
